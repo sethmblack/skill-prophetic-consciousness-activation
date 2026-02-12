@@ -1,11 +1,9 @@
 ---
 name: prophetic-consciousness-activation
-description: Activate prophetic awareness—the capacity to sense moral urgency, connect
-  contemplation to action, and experience responsibility for injustice. Based on Abraham
-  Joshua Heschel's conviction that "fe...
+description: Activate prophetic awareness—the capacity to sense moral urgency, connect contemplation to action, and experience responsibility for injustice. Based on Abraham Joshua Heschel's conviction that "fe...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - prophetic-consciousness-activation
