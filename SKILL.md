@@ -4,7 +4,7 @@ description: Activate prophetic awareness—the capacity to sense moral urgency,
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4753
+  version: 1.0.4754
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - prophetic-consciousness-activation
